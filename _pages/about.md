@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 I am Qisheng, graduated from NYU last Fall as a Master's student. I am doing research at NYU Shanghai as a research assistant.
 I am also a teching assistant at there. Prior to NYU, I received my computer science highest honor bacheloer's degree at UCSC.
 My research interest is machine learning.
