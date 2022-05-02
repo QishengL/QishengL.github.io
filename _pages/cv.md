@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[CV] (http://academicpages.github.io/files/paper1.pdf)
+<a href="resume_Qisheng_Liao.pdf" target="_blank">CV</a>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
