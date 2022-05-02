@@ -14,6 +14,7 @@ I am Qisheng, graduated from NYU last Fall as a Master's student. I am doing res
 I am also a teching assistant at there. Prior to NYU, I received my computer science highest honor bacheloer's degree at UCSC.
 My research interest is machine learning.
 My <a href="../files/resume_qisheng_liao_5_2.pdf" target="_blank">CV</a> is here.
+
 Education
 ======
 * B.S. in Computer Science, University of California Santa Cruz, 2020
