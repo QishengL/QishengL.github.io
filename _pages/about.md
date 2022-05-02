@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+I am looking for a Ph.D postion. My research interest is machine learning.
 
 Education
 ======
