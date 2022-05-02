@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="qishengL.github.io/files/resume_qisheng_liao_5_2.pdf" target="_blank">CV</a>
+<a href="../files/resume_qisheng_liao_5_2.pdf" target="_blank">CV</a>
 
 Education
 ======
