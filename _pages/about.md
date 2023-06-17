@@ -29,9 +29,11 @@ Teaching
 
 Publication
 ======
-* Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling. Qisheng Liao, Gus Xia, Zhinuo Wang
-* MarsEclipse at SemEval-2023 Task 3: Multi-lingual and Multi-label Framing Detection with Contrastive Learning. Qisheng Liao, Meiting Lai, and Preslav Nakov 
-
+* **Liao, Q.**, Xia, G., & Wang, Z. (2023). Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling. 14th International Conference on Computational Creativity (ICCC).
+  
+  
+* **Liao, Q.**, Lai, M., & Nakov, P. (2023). MarsEclipse at SemEval-2023 Task 3: Multi-lingual and Multi-label Framing Detection with Contrastive Learning.Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval)
+  
 
 
   
