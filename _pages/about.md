@@ -19,16 +19,19 @@ Education
 ======
 * B.S. in Computer Science, University of California Santa Cruz, 2020
 * M.S. in Computer Science, New York University, 2022
+* M.S. in Natural Language Processing, Mohamed Bin Zayed University of Artificial Intelligence, 2024
 
 Teaching
 ======
 * Network Analytics, Teaching Assistant, Fall 2021, NYU Shanghai
-* Data Science for Soc. and Info. Networks, Teaching Assistant, Spring 2022, NYU Shanghai 
+* Data Science for Soc. and Info. Networks, Teaching Assistant, Spring 2022, NYU Shanghai
+* Advanced Natural Language Processing, Teaching Assistant, Spring 2023, MBZUAI
 
-Research
+Publication
 ======
-* Electric Car Charging Station Placement Problem in Large Road Networks
-* Chinese Calligraphy Styles and Characters Recognition
+* Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling. Qisheng Liao, Gus Xia, Zhinuo Wang
+* MarsEclipse at SemEval-2023 Task 3: Multi-lingual and Multi-label Framing Detection with Contrastive Learning. Qisheng Liao, Meiting Lai, and Preslav Nakov 
+
 
 
   
