@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-Qisheng is a Master's student in Natural Language Processing at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) supervised by <a href="https://people.eng.unimelb.edu.au/tbaldwin/" target="_blank">Tim Baldwin</a> and <a href="https://mageed.arts.ubc.ca/" target="_blank">Mohammad Abdul-mageed</a>. 
+Qisheng is a Master's student in Natural Language Processing at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) supervised by <a href="https://people.eng.unimelb.edu.au/tbaldwin/" target="_blank">Tim Baldwin</a> and <a href="https://mageed.arts.ubc.ca/" target="_blank">Muhammad Abdul-mageed</a>. 
 
-Prior to MBZUAI, he receives a Master's degree in Computer Science at New York University (NYU) and a Computer Science Highest Honor Bachelor's degree at University of California Santa Cruz (UCSC) in Computer Science with Highest Honor.\
+Prior to MBZUAI, he received a Master's degree in Computer Science at New York University (NYU) and a Computer Science Highest Honor Bachelor's degree at University of California Santa Cruz (UCSC) in Computer Science with Highest Honor.\
 His research interest is natural language processing and diffusion model.\
 He is also a member of <a href="http://musicxlab.com/#/index" target="_blank">Music X Lab</a> at NYU Shanghai supervised by <a href="http://www.musicxlab.com/members/gus/" target="_blank">Gus Xia</a>
 
@@ -32,11 +32,24 @@ Teaching
 
 Publication
 ======
+Two papers are submitted to EMNLP.
+
 * **Liao, Q.**, Xia, G., & Wang, Z. (2023). Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling. 14th International Conference on Computational Creativity (ICCC).
   
   
-* **Liao, Q.**, Lai, M., & Nakov, P. (2023). MarsEclipse at SemEval-2023 Task 3: Multi-lingual and Multi-label Framing Detection with Contrastive Learning.Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval)
-  
+* **Liao, Q.**, Lai, M., & Nakov, P. (2023). MarsEclipse at SemEval-2023 Task 3: Multi-lingual and Multi-label Framing Detection with Contrastive Learning. Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval)
+
+Research Project
+======
+
+Current
+* Unknown/Unseen language identification. Supervised by Tim.
+* Diffusion model for Chinese calligraphy generation/ hand-writing generation. Supervised by Gus and Muhammad.
+* Diffusion model for speech-to-text. Supervised by Muhammad.
+
+Past
+* Contrastive learning for language identification/ dialect identification. Supervised by Tim and Muhammad.
+* Contrastive learning for Chinese calligraphy recognition. Supervised by Gus.
 
 
   
