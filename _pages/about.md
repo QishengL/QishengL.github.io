@@ -42,14 +42,17 @@ Publication
 Research Project
 ======
 
-Current
+**Current**
 * Unknown/Unseen language identification. Supervised by Tim.
 * Diffusion model for Chinese calligraphy generation/ hand-writing generation. Supervised by Gus and Muhammad.
 * Diffusion model for speech-to-text. Supervised by Muhammad.
 
-Past
+**Past**
 * Contrastive learning for language identification/ dialect identification. Supervised by Tim and Muhammad.
 * Contrastive learning for Chinese calligraphy recognition. Supervised by Gus.
 
+
+
+<div class="hitcounter"><a href="https://info.flagcounter.com/Q62t"><img src="https://s11.flagcounter.com/map/Q62t/size_t/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a></div>
 
   
