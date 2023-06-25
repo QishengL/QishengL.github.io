@@ -32,7 +32,7 @@ Teaching
 
 Publication
 ======
-Two papers are submitted to EMNLP.
+* Two papers are submitted to EMNLP 2023.
 
 * **Liao, Q.**, Xia, G., & Wang, Z. (2023). Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling. 14th International Conference on Computational Creativity (ICCC).
   
