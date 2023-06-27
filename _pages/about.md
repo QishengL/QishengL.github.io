@@ -51,7 +51,7 @@ Research Project
 
 **Past**
 * A Study of Sociopragmatic Understanding in LLMs 
-* Syntax Relations in Semantic Matching in Tasks
+* Syntax Relations in Semantic Matching Tasks
 * Contrastive learning for language identification/ dialect identification. 
 * Contrastive learning for Chinese calligraphy recognition. 
 
