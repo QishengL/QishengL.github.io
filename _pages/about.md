@@ -44,13 +44,16 @@ Research Project
 ======
 
 **Current**
-* Unknown/Unseen language identification. Supervised by Tim.
-* Diffusion model for Chinese calligraphy generation/ hand-writing generation. Supervised by Gus and Muhammad.
-* Diffusion model for speech-to-text. Supervised by Muhammad.
+* Unknown language identification. 
+* An Investigation into ChatGPT's Language Identification Ability
+* Diffusion model for Chinese calligraphy generation/ hand-writing generation.
+* Diffusion model for speech-to-text.
 
 **Past**
-* Contrastive learning for language identification/ dialect identification. Supervised by Tim and Muhammad.
-* Contrastive learning for Chinese calligraphy recognition. Supervised by Gus.
+* A Study of Sociopragmatic Understanding in LLMs 
+* Syntax Relations in Semantic Matching in Tasks
+* Contrastive learning for language identification/ dialect identification. 
+* Contrastive learning for Chinese calligraphy recognition. 
 
 
 <div class="hitcounter"><a href="https://info.flagcounter.com/C7EE"><img src="https://s11.flagcounter.com/count2/C7EE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a><a href="https://info.flagcounter.com/Q62t"><img src="https://s11.flagcounter.com/map/Q62t/size_t/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a></div>
