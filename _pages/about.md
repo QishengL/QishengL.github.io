@@ -16,7 +16,7 @@ Prior to MBZUAI, he received a Master's degree in Computer Science at New York U
 His research interest is natural language processing and diffusion model.\
 He is also a member of <a href="http://musicxlab.com/#/index" target="_blank">Music X Lab</a> at NYU Shanghai supervised by <a href="http://www.musicxlab.com/members/gus/" target="_blank">Gus Xia</a>
 
- Qisheng's <a href="../files/resume_liao_v3.pdf" target="_blank">CV</a> is here.
+ Qisheng's <a href="../files/resume_liao_v4.pdf" target="_blank">CV</a> is here.
 <!-- Qisheng's <a href="../files/resume_qisheng_liao_5_2.pdf" target="_blank">CV</a> is here. -->
 
 Education
@@ -40,7 +40,7 @@ Publication
   
 * **Liao, Q.**, Lai, M., & Nakov, P. (2023). MarsEclipse at SemEval-2023 Task 3: Multi-lingual and Multi-label Framing Detection with Contrastive Learning. Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval)
 
-Research Project
+Main Research Project
 ======
 
 **Current**
