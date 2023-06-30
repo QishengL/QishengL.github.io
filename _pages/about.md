@@ -12,7 +12,7 @@ redirect_from:
 
 Qisheng is a Master's student in Natural Language Processing at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI) supervised by <a href="https://people.eng.unimelb.edu.au/tbaldwin/" target="_blank">Tim Baldwin</a> and <a href="https://mageed.arts.ubc.ca/" target="_blank">Muhammad Abdul-mageed</a>. 
 
-Prior to MBZUAI, he received a Master's degree in Computer Science at New York University (NYU) and a Computer Science Highest Honor Bachelor's degree at University of California Santa Cruz (UCSC) in Computer Science with Highest Honor.\
+Prior to MBZUAI, he received a Master's degree in Computer Science at New York University (NYU) and a Computer Science Bachelor's degree at University of California Santa Cruz (UCSC) in Computer Science with Highest Honor.\
 His research interest is natural language processing and diffusion model.\
 He is also a member of <a href="http://musicxlab.com/#/index" target="_blank">Music X Lab</a> at NYU Shanghai supervised by <a href="http://www.musicxlab.com/members/gus/" target="_blank">Gus Xia</a>
 
