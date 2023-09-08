@@ -33,12 +33,19 @@ Teaching
 
 Publication
 ======
-* Two papers are submitted to EMNLP 2023.
 
 * **Liao, Q.**, Xia, G., & Wang, Z. (2023). Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling. 14th International Conference on Computational Creativity (ICCC).
   
   
 * **Liao, Q.**, Lai, M., & Nakov, P. (2023). MarsEclipse at SemEval-2023 Task 3: Multi-lingual and Multi-label Framing Detection with Contrastive Learning. Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval)
+
+News
+======
+* One proposal is accepted to NeurIPS2023 Creative AI Track.
+
+* Two papers are submitted to EMNLP 2023 Demo Track.
+
+* Two papers are submitted to EMNLP 2023.
 
 Main Research Project
 ======
