@@ -35,6 +35,7 @@ Publication
 ======
 
 * **Liao, Q.**, Xia, G., & Wang, Z. (2023). Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling. 14th International Conference on Computational Creativity (ICCC).
+*The Video Proposal of this work is accepted by NeurIPS2023 Creative AI Track.*
   
   
 * **Liao, Q.**, Lai, M., & Nakov, P. (2023). MarsEclipse at SemEval-2023 Task 3: Multi-lingual and Multi-label Framing Detection with Contrastive Learning. Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval)
