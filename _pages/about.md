@@ -44,9 +44,11 @@ News
 ======
 * One proposal is accepted to NeurIPS2023 Creative AI Track.
 
-* Two papers are submitted to EMNLP 2023 Demo Track.
+* One paper is submitted to ICASSP 2024.
 
-* Two papers are submitted to EMNLP 2023.
+* One paper is submitted to EMNLP 2023.
+  
+* One paper is submitted to ML4CD workshop @ NeuraIPS 2023.
 
 Main Research Project
 ======
