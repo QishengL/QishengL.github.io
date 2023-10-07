@@ -34,7 +34,7 @@ Teaching
 Publication
 ======
 * Zhang, C., Doan, K.\*, **Liao, Q.**\*, & Abdul-Mageed, M. (2023). The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages. The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).
-\* equal contribution
+*\* equal contribution
 
 * **Liao, Q.**, Xia, G., & Wang, Z. (2023). Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling. 14th International Conference on Computational Creativity (ICCC).
 *The Video Proposal of this work is accepted by NeurIPS2023 Creative AI Track.*
