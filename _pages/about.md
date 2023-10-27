@@ -33,23 +33,29 @@ Teaching
 
 Publication
 ======
+* **Liao, Q.**, & Wang, Z, Xia, G, Abdul-Mageed, M. (2023). CalliPaint: Chinese Calligraphy Inpainting with Diffusion Model. Machine Learning for Creativity and Design workshop at NeuraIPS 2023 (ML4CD).
+*Part of this work is shown on NeurIPS 2023 Creative AI Track.*
+
 * Zhang, C., Doan, K.\*, **Liao, Q.**\*, & Abdul-Mageed, M. (2023). The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages. The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). \* equal contribution
 
+* **Liao, Q.**, Xia, G., & Wang, Z. (2023). Diffusion Model for Chinese Calligraphy Generation and Inpainting. NeurIPS 2023 Creative AI Track.
+
 * **Liao, Q.**, Xia, G., & Wang, Z. (2023). Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling. 14th International Conference on Computational Creativity (ICCC).
-*The Video Proposal of this work is accepted by NeurIPS2023 Creative AI Track.*
+*Part of this work is shown on NeurIPS 2023 Creative AI Track.*
   
   
 * **Liao, Q.**, Lai, M., & Nakov, P. (2023). MarsEclipse at SemEval-2023 Task 3: Multi-lingual and Multi-label Framing Detection with Contrastive Learning. Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval)
 
 News
 ======
+* One paper is accepted to ML4CD workshop @ NeuraIPS 2023.
+  
 * One paper is accepted to EMNLP 2023.
 
-* One proposal is accepted to NeurIPS2023 Creative AI Track.
+* One submission is accepted to NeurIPS2023 Creative AI Track.
 
 * One paper is submitted to ICASSP 2024.
   
-* One paper is submitted to ML4CD workshop @ NeuraIPS 2023.
 
 Main Research Project
 ======
