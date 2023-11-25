@@ -33,12 +33,11 @@ Teaching
 
 Publication
 ======
-* **Liao, Q.**, & Wang, Z, Xia, G, Abdul-Mageed, M. (2023). CalliPaint: Chinese Calligraphy Inpainting with Diffusion Model. Machine Learning for Creativity and Design workshop at NeuraIPS 2023 (ML4CD).
+* **Liao, Q.**, & Wang, Z, Abdul-Mageed, M., Xia, G. (2023). CalliPaint: Chinese Calligraphy Inpainting with Diffusion Model. Machine Learning for Creativity and Design workshop at NeuraIPS 2023 (ML4CD).
 *Part of this work is shown on NeurIPS 2023 Creative AI Track.*
 
 * Zhang, C., Doan, K.\*, **Liao, Q.**\*, & Abdul-Mageed, M. (2023). The Skipped Beat: A Study of Sociopragmatic Understanding in LLMs for 64 Languages. The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). \* equal contribution
 
-* **Liao, Q.**, Xia, G., & Wang, Z. (2023). Diffusion Model for Chinese Calligraphy Generation and Inpainting. NeurIPS 2023 Creative AI Track.
 
 * **Liao, Q.**, Xia, G., & Wang, Z. (2023). Calliffusion: Chinese Calligraphy Generation and Style Transfer with Diffusion Modeling. 14th International Conference on Computational Creativity (ICCC).
 *Part of this work is shown on NeurIPS 2023 Creative AI Track.*
@@ -46,31 +45,18 @@ Publication
   
 * **Liao, Q.**, Lai, M., & Nakov, P. (2023). MarsEclipse at SemEval-2023 Task 3: Multi-lingual and Multi-label Framing Detection with Contrastive Learning. Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval)
 
-News
+
+Under Review/ Pre-print
 ======
-* One paper is accepted to ML4CD workshop @ NeuraIPS 2023.
-  
-* One paper is accepted to EMNLP 2023.
+* **Liao, Q.**, & Wang, Z, Abdul-Mageed, M., Baldwin, T., Xia, G. Multilingual Calligraphy Generation: Exploring Chinese Calligraphy Generation with Diffusion Model Beyond Traditional Boundaries. CVPR Under Review
 
-* One submission is accepted to NeurIPS2023 Creative AI Track.
+* Chen, W., Adebara, I., Doan, K.\*, **Liao, Q.**\*, & Abdul-Mageed, M. Fumbling in Babel: An Investigation into ChatGPT's Language Identification Ability. NAACL Under Review.
 
-* One paper is submitted to ICASSP 2024.
-  
-
-Main Research Project
+Others
 ======
+* **Liao, Q.**, Xia, G., & Wang, Z. (2023). Diffusion Model for Chinese Calligraphy Generation and Inpainting. NeurIPS 2023 Creative AI Track.
+  
 
-**Current**
-* Unknown language identification. 
-* An Investigation into ChatGPT's Language Identification Ability
-* Diffusion model for Chinese calligraphy generation/ hand-writing generation.
-* Diffusion model for speech-to-text.
-
-**Past**
-* A Study of Sociopragmatic Understanding in LLMs 
-* Syntax Relations in Semantic Matching Tasks
-* Contrastive learning for language identification/ dialect identification. 
-* Contrastive learning for Chinese calligraphy recognition. 
 
 
 <div class="hitcounter"><a href="https://info.flagcounter.com/C7EE"><img src="https://s11.flagcounter.com/count2/C7EE/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a><a href="https://info.flagcounter.com/Q62t"><img src="https://s11.flagcounter.com/map/Q62t/size_t/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a></div>
